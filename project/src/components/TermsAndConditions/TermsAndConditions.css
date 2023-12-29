@@ -1,0 +1,14 @@
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+article header{
+    text-align: center;
+}
+article section{
+    padding: 0 100px;
+}
+article section p{
+    margin: 12px 0;
+}
